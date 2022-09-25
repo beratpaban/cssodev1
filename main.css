@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 35px;
+    
+}
+.middle{
+    text-align: center;
+
+}
+h2{
+    color: purple;
+    font-size: 25px;
+}
+.links{
+    font-size: 20px;
+}
+img{
+    height: 25%;
+    width: 25%;
+}
+.info{
+    font-size:  25px;
+}
+#lotr{
+    height: 20%;
+    width: 20%;
+}
